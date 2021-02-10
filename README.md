@@ -6,9 +6,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/darioevers?style=social)](https://github.com/darioevers)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://darioevers.com/)](https://darioevers.com/)
 
-### WEB-DEV Student @ <a href="https://digitalcareerinstitute.org/">Digital Career Institue</a>
+## WEB-DEV Student @ <a href="https://digitalcareerinstitute.org/">Digital Career Institue</a>
 
-#### I have a demonstrated history of working in the financial & consumer electronics industry. Previously, I worked as VP Operations for Finrocks and associated companies, as well as Global Head of Support & member of the core-management team for THE NAGA GROUP AG and affiliated companies.
+### I have a demonstrated history of working in the financial & consumer electronics industry. Previously, I worked as VP Operations for Finrocks and associated companies, as well as Global Head of Support & member of the core-management team for THE NAGA GROUP AG and affiliated companies.
 
 ```
 TEST
