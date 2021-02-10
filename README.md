@@ -10,10 +10,8 @@
 
 👇 Check me out!
 
-```javascript
-I have a demonstrated history of working in the
-financial & consumer electronics industry and am
-a certified office operations professional.
+```
+I have a demonstrated history of working in the financial & consumer electronics industry and am a certified office operations professional.
 
 Previously, I worked as VP Operations for
 Finrocks and associated companies, as well
