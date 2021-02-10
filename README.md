@@ -11,13 +11,11 @@
 👇 Check me out!
 
 ```
-I have a demonstrated history of working in the financial & consumer electronics industry and am a certified office operations professional.
-
-Previously, I worked as VP Operations for
-Finrocks and associated companies, as well
-as Global Head of Support & member of the
-core-management team for THE NAGA GROUP AG
-and affiliated companies.
+I have a demonstrated history of working in the financial & consumer electronics
+industry and am a certified office operations professional. Previously, I worked
+as VP Operations for Finrocks and associated companies, as well as Global Head of
+Support & member of the core-management team for THE NAGA GROUP AG and affiliated
+companies.
 
 Following my life-long passion for technology,
 I started studying Web-Development in 2020.
