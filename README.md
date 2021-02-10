@@ -12,25 +12,17 @@
 
 ```
 I have a demonstrated history of working in the financial & consumer electronics
-industry and am a certified office operations professional. Previously, I worked
-as VP Operations for Finrocks and associated companies, as well as Global Head of
+industry. Previously, I worked as VP Operations for Finrocks and associated companies, as well as Global Head of
 Support & member of the core-management team for THE NAGA GROUP AG and affiliated
 companies.
-
-Following my life-long passion for technology,
-I started studying Web-Development in 2020.
-My path of education shall not end yet and Im
-eager to learn all I can about not only frond-
-& back-end development, but also all other
-interesting technologies.
 ```
 
 ### <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="50"> What I do...
 
 ```javascript
 const darioEvers = {
-    interests: "Tech" && "Design" && "Marketing" && "Business";
-    code: ["Javascript", "HTML", "CSS"];
+    interests: "Tech" && "Design" && "Marketing" && "Business",
+    code: ["Javascript", "HTML", "CSS"],
     technologies: {
         Development: ["VS CODE", "CPanel Web Admin", ...],
         Design: ["Photoshop", "Illustrator", "InDesign"],
