@@ -1,4 +1,4 @@
-Hello, I'm Dario Evers! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+# Hello, I'm Dario Evers! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 <img align='right' src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="210">
 
@@ -9,10 +9,6 @@ Hello, I'm Dario Evers! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia
 ## WEB-DEV Student @ <a href="https://digitalcareerinstitute.org/">Digital Career Institue</a>
 
 ### I have a demonstrated history of working in the financial & consumer electronics industry. Previously, I worked as VP Operations for Finrocks and associated companies, as well as Global Head of Support & member of the core-management team for THE NAGA GROUP AG and affiliated companies.
-
-```html
-What I do...
-```
 
 ### <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="50"> What I do...
 
