@@ -28,6 +28,3 @@ const darioEvers = {
     myFocus: "Learning coding form the start!",
 };
 ```
-
-<p align="center">📈 My GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=darioevers&show_icons=true&theme=gotham" alt="darioevers" />
