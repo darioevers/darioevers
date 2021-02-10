@@ -5,7 +5,7 @@
 </em></p>
 
 [![Linkedin: darioevers](https://img.shields.io/badge/-darioevers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dario-n-evers/)](https://www.linkedin.com/in/dario-n-evers/)
-![GitHub followers](https://img.shields.io/github/followers/darioevers?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/darioevers?style=social)](https://github.com/darioevers)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://darioevers.com/)](https://darioevers.com/)
 
 👇 Check me out!
