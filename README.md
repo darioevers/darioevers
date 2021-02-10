@@ -1,20 +1,18 @@
 # Hello, I'm Dario Evers! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 <img align='right' src="https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" width="200">
-<p>WEB-DEV Student @ <a href="https://digitalcareerinstitute.org/">Digital Career Institue</a>
-</p>
 
 [![Linkedin: darioevers](https://img.shields.io/badge/-darioevers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dario-n-evers/)](https://www.linkedin.com/in/dario-n-evers/)
 [![GitHub followers](https://img.shields.io/github/followers/darioevers?style=social)](https://github.com/darioevers)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://darioevers.com/)](https://darioevers.com/)
 
-👇 Check me out!
+<p>WEB-DEV Student @ <a href="https://digitalcareerinstitute.org/">Digital Career Institue</a>
+</p>
+
+I have a demonstrated history of working in the financial & consumer electronics industry. Previously, I worked as VP Operations for Finrocks and associated companies, as well as Global Head of Support & member of the core-management team for THE NAGA GROUP AG and affiliated companies.
 
 ```
-I have a demonstrated history of working in the financial & consumer electronics
-industry. Previously, I worked as VP Operations for Finrocks and associated companies, as well as Global Head of
-Support & member of the core-management team for THE NAGA GROUP AG and affiliated
-companies.
+TEST
 ```
 
 ### <img src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="50"> What I do...
