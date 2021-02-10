@@ -9,7 +9,7 @@
 <p>WEB-DEV Student @ <a href="https://digitalcareerinstitute.org/">Digital Career Institue</a>
 </p>
 
-I have a demonstrated history of working in the financial & consumer electronics industry. Previously, I worked as VP Operations for Finrocks and associated companies, as well as Global Head of Support & member of the core-management team for THE NAGA GROUP AG and affiliated companies.
+#### I have a demonstrated history of working in the financial & consumer electronics industry. Previously, I worked as VP Operations for Finrocks and associated companies, as well as Global Head of Support & member of the core-management team for THE NAGA GROUP AG and affiliated companies.
 
 ```
 TEST
