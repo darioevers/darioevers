@@ -18,8 +18,8 @@ const darioEvers = {
     interests: "Tech" && "Design" && "Marketing" && "Business",
     code: ["Javascript", "HTML", "CSS"],
     technologies: {
-        Development: ["VS CODE", "CPanel Web Admin", ...],
-        Design: ["Photoshop", "Illustrator", "InDesign"],
+        development: ["VS CODE", "CPanel Web Admin", ...],
+        design: ["Photoshop", "Illustrator", "InDesign"],
         misc: ["Linux", "Trello", "Figma", "Invision"]
     },
     myFocus: "Learning coding form the start!",
