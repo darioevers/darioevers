@@ -1,8 +1,8 @@
 ## Hello, I'm Dario Evers! <img src="https://media.giphy.com/media/lOgu1OnjYF2GHBfRU4/giphy.gif" width="0">
 
 <img align='right' src="https://media.giphy.com/media/dC3EHvqJ61hNReoxMV/giphy.gif" width="200">
-<p><em>WEB-DEV Student @ <a href="https://digitalcareerinstitute.org/">Digital Career Institue</a>
-</em></p>
+<p>WEB-DEV Student @ <a href="https://digitalcareerinstitute.org/">Digital Career Institue</a>
+</p>
 
 [![Linkedin: darioevers](https://img.shields.io/badge/-darioevers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dario-n-evers/)](https://www.linkedin.com/in/dario-n-evers/)
 [![GitHub followers](https://img.shields.io/github/followers/darioevers?style=social)](https://github.com/darioevers)
