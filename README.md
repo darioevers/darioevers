@@ -16,7 +16,7 @@
 ```javascript
 const darioEvers = {
     interests: "Tech" && "Design" && "Marketing" && "Business",
-    code: ["Javascript", "HTML", "CSS"],
+    code: ["HTML", "CSS","Javascript", "NODEjs"],
     technologies: {
         development: ["VS CODE", "CPanel Web Admin", ...],
         design: ["Photoshop", "Illustrator", "InDesign"],
